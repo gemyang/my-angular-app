@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import 'vite-react-to-webcomponent';
 
 @Component({
   selector: 'app-root',
